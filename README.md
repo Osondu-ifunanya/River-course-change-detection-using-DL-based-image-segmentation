@@ -1,6 +1,6 @@
 
 
-# River Course Change Detection using Deep Learning-based Image Segmentation (Synthetic Data)
+# River Course Change Detection using Deep Learning-based Image Segmentation 
 
 ## 📌 Overview
 
